@@ -36,6 +36,7 @@ public class Kursus {
         biayaPerJam = biaya;
     }
 
+    //METHOD VOID
     // read tampilkan data
     public void read() {
         System.out.println("ID Kursus       : " + idKursus);
@@ -45,6 +46,7 @@ public class Kursus {
         System.out.println("Biaya Per Jam   : Rp" + biayaPerJam);
     }
 
+    //METHOD RETURN
     // update status berhasil/gagal
     public boolean update(int durasiBaru) {
         if (durasiBaru > 0) {
