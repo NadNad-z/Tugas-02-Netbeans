@@ -1,2 +1,3 @@
 # Tugas-02-Netbeans
-2410020111_Yulia Nada Zahrah
+NPM  :2410020111
+Nama :Yulia Nada Zahrah
